@@ -27,7 +27,7 @@ get_dje_data <- function(tj) {
       booklets = c(1:4)),
     "tjsp" = list(
       u_dje = "http://www.dje.tjsp.jus.br/cdje/downloadCaderno.do?",
-      booklets = c(11:15, 18)))
+      booklets = c(10)))
 }
 
 # Call appropriate function to get link depending on TJ
